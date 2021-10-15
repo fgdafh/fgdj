@@ -1,8 +1,0 @@
-<html>
-<head>
-<title> страница </title>
-</html>
-<body>
-моя страница 
-</body>
-</html>
